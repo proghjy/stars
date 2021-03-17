@@ -15,3 +15,4 @@
 
 ### Document
 - [gRPC API 디자인 가이드](https://cloud.google.com/apis/design)
+- [Go 언어로 gRPC 빠르게 시작하기](https://grpc.io/docs/languages/go/quickstart/)
