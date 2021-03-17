@@ -1,5 +1,5 @@
 # Stars
-내가 살펴본 언어별 깃허브 저장소~
+내가 살펴본 언어별 학습 문서 및 깃허브 저장소~
 
 ## Go
 
@@ -14,5 +14,6 @@
 - [mux](https://github.com/gorilla/mux): 라우팅 관리를 하기 위하여 디스패칭에 필요한 다양한 기능 제공
 
 ### Document
+- [Go 투어](https://go-tour-ko.appspot.com/welcome/1)
 - [gRPC API 디자인 가이드](https://cloud.google.com/apis/design)
 - [Go 언어로 gRPC 빠르게 시작하기](https://grpc.io/docs/languages/go/quickstart/)
