@@ -18,3 +18,4 @@
 - [gRPC API 디자인 가이드](https://cloud.google.com/apis/design)
 - [Go 언어로 gRPC 빠르게 시작하기](https://grpc.io/docs/languages/go/quickstart/)
 - [Creating a TypeScript API that consumes gRPC and GraphQL via generated types](https://medium.com/attest-r-and-d/fully-typed-typescript-api-consuming-grpc-and-graphql-5d5ae6b33bf1)
+- [Learn Go with Tests](https://miryang.gitbook.io/learn-go-with-tests/)
